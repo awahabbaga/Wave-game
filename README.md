@@ -24,6 +24,13 @@
    Une fenêtre devrait s'ouvrire.
    ![](https://github.com/awahabbaga/Wave-game/blob/main/Capture1.png "Capture d'écran de la fenêtre du jeux pour les macs")
    
+   Le carré **blanc** est votre joueur et le carré **rouge** est un enemie(vous ne pouvez pas le controler). Le rectangle en haut à gauche répresente votre vie(Couleur verte à 100 et grise à 0)
+   
+   * Pour déplacer le carré blanc vers le haut la touche **``w``**
+   * Pour déplacer le carré blanc vers le bas la touche **``s``**
+   * Pour déplacer le carré blanc vers la gauche  la touche **``a``**
+   * Pour déplacer le carré blanc vers la droite la touche **``d``**
+   
 
    ## Contenu du projet
 
