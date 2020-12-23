@@ -22,6 +22,7 @@
    **``NB:Céla pourrait prendre quelques secondes(ou +)``**
    
    Une fenêtre devrait s'ouvrire.
+   ![Capture d'écran de la fenêtre du jeux](url_de_l'image "texte pour le titre, facultatif")
    
 
    ## Contenu du projet
