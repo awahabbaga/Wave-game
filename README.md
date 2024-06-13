@@ -11,6 +11,13 @@
 
    ## Fonctionnement
 
+   Cloner le depot 
+
+  ```sh
+      git clone https://github.com/awahabbaga/Wave-game.git
+      cd Wave-game
+  ```
+
    La methode `main` se trouve dans le fichier **`Game.java`** donc pour la compilation on ecrit dans la ligne de commande:
    ```sh
    javac Game.java
