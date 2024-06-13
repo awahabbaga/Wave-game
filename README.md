@@ -26,10 +26,10 @@
    
    Le carré **blanc** est votre joueur et le carré **rouge** est un enemie(vous ne pouvez pas le controler). Le rectangle en haut à gauche répresente votre vie(Couleur verte à 100 et grise à 0)
    
-   * Pour déplacer le carré blanc vers le haut, pressé la touche **``w``**
-   * Pour déplacer le carré blanc vers le bas, pressé la touche **``s``**
-   * Pour déplacer le carré blanc vers la gauche, pressé  la touche **``a``**
-   * Pour déplacer le carré blanc vers la droite, pressé la touche **``d``**
+   * Pour déplacer le carré blanc vers le haut, pressé la touche **``w``** ou **``↑``**
+   * Pour déplacer le carré blanc vers le bas, pressé la touche **``s``** ou **``↓``**
+   * Pour déplacer le carré blanc vers la gauche, pressé  la touche **``a``** ou **``←``**
+   * Pour déplacer le carré blanc vers la droite, pressé la touche **``d``** ou **``→``**
    
 
    ## Contenu du projet
